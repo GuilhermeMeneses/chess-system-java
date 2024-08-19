@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module chess_system {
-}
